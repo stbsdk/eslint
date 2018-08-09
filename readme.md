@@ -10,7 +10,7 @@ General-purpose eslint linting
 ## Installation ##
 
 ```bash
-npm install stb-eslint
+npm install stb-eslint --save-dev
 ```
 
 
