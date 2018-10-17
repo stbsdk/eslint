@@ -37,9 +37,9 @@ module.exports = {
     // override any settings from the "parent" configuration
     rules: {
         'new-cap': [
-            "error",
+            'error',
             {
-                "capIsNewExceptionPattern": "^gSTB\..|^dvbManager\..|^pvrManager\..|^stbDownloadManager\..|^stbUpdate\..|^stbWebWindow\..|^stbWildWebWindow\..|^stbWindowMgr\..|^timeShift\.."
+                capIsNewExceptionPattern: '^gSTB\..|^dvbManager\..|^pvrManager\..|^stbDownloadManager\..|^stbUpdate\..|^stbWebWindow\..|^stbWildWebWindow\..|^stbWindowMgr\..|^timeShift\..'
             }
         ]
     }
